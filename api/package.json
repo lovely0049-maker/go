@@ -1,0 +1,14 @@
+{
+  "name": "campus-commute-pedometer-alarm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "대학생용 등교 시간 및 만보계 알람 웹앱 (TMAP 보행자 경로 & POI 프록시)",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
